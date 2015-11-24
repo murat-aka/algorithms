@@ -28,6 +28,7 @@ public class testUnionFind{
         }
         StdOut.println(uf.count() + " components");
     }
+    
       
     
 }
