@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\Users\murat\Desktop\2016\coursera\algorihtms 1\.metadata\.plugins\org.eclipse.jdt.core

@@ -101,6 +101,8 @@ public class Percolation {
 
     /**
      * Determine if a site is open or not.
+     * @param i i
+     * @param j j
      */
     public boolean isOpen(int i, int j)
     {
