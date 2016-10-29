@@ -3,29 +3,29 @@
   <project autorefresh="false" root="" work="">
     <createjar file=""/>
     <source>
-      <file active="true" name="PercolationStats.java" package="" timestamp="29-Oct-2016 21:44:04">
-        <select from="4036" to="4036"/>
-        <scroll column="1830" row="0"/>
+      <file active="true" name="PercolationStats.java" package="" timestamp="29-Oct-2016 22:00:09">
+        <select from="955" to="955"/>
+        <scroll column="66" row="0"/>
       </file>
       <file name="PercolationVisualizer.java" package="" timestamp="29-Oct-2016 15:07:14">
-        <select from="4036" to="4036"/>
-        <scroll column="1830" row="0"/>
-      </file>
-      <file name="InteractivePercolationVisualizer.java" package="" timestamp="22-Nov-2015 17:25:53">
-        <select from="4036" to="4036"/>
-        <scroll column="1830" row="0"/>
+        <select from="955" to="955"/>
+        <scroll column="66" row="0"/>
       </file>
       <file name="input20.txt" package="" timestamp="22-Nov-2015 17:25:53">
-        <select from="4036" to="4036"/>
-        <scroll column="1830" row="0"/>
+        <select from="955" to="955"/>
+        <scroll column="66" row="0"/>
       </file>
       <file name="input1.txt" package="" timestamp="22-Nov-2015 17:42:22">
-        <select from="4036" to="4036"/>
-        <scroll column="1830" row="0"/>
+        <select from="955" to="955"/>
+        <scroll column="66" row="0"/>
       </file>
       <file name="Percolation.java" package="" timestamp="29-Oct-2016 21:37:33">
-        <select from="4036" to="4036"/>
-        <scroll column="1830" row="0"/>
+        <select from="955" to="955"/>
+        <scroll column="66" row="0"/>
+      </file>
+      <file name="InteractivePercolationVisualizer.java" package="" timestamp="29-Oct-2016 22:01:10">
+        <select from="955" to="955"/>
+        <scroll column="66" row="0"/>
       </file>
     </source>
     <included/>

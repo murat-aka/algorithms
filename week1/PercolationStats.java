@@ -3,7 +3,6 @@ import edu.princeton.cs.algs4.StdStats;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 import edu.princeton.cs.algs4.StdOut;
 
-
 /**
  * <b>Monte Carlo simulation.</b> To estimate the percolation threshold, 
  * The fraction of sites that are opened when the system percolates provides an estimate of the percolation threshold.
@@ -12,6 +11,7 @@ import edu.princeton.cs.algs4.StdOut;
  * Assuming T is sufficiently large (say, at least 30), provides a 95% confidence interval for the percolation threshold:
  */
 public class PercolationStats {
+    
     private final double[] thresholds;
     private final int n;
     private final int t;
