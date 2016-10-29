@@ -112,6 +112,7 @@ We start with 1d and 2d range searching, where the goal is to find all points in
 We begin by describing the desirable properties of hash function and how to implement them in Java, including a fundamental tenet known as the uniform hashing assumption that underlies the potential success of a hashing application. Then, we consider two strategies for implementing hash tables—separate chaining and linear probing. Both strategies yield constant-time performance for search and insert under the uniform hashing assumption.
 * 4 videos, 2 readings, 1 reading
 
+
 ####Symbol Table Applications
 We consider various applications of symbol tables including sets, dictionary clients, indexing clients, and sparse vectors. 
 * 4 videos, 1 reading
